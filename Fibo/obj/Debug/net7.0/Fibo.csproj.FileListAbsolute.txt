@@ -1,0 +1,14 @@
+C:\Users\APT01-042\Desktop\PushUp\Fibonacci\fibo\bin\Debug\net7.0\Fibo.exe
+C:\Users\APT01-042\Desktop\PushUp\Fibonacci\fibo\bin\Debug\net7.0\Fibo.deps.json
+C:\Users\APT01-042\Desktop\PushUp\Fibonacci\fibo\bin\Debug\net7.0\Fibo.runtimeconfig.json
+C:\Users\APT01-042\Desktop\PushUp\Fibonacci\fibo\bin\Debug\net7.0\Fibo.dll
+C:\Users\APT01-042\Desktop\PushUp\Fibonacci\fibo\bin\Debug\net7.0\Fibo.pdb
+C:\Users\APT01-042\Desktop\PushUp\Fibonacci\fibo\obj\Debug\net7.0\Fibo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\APT01-042\Desktop\PushUp\Fibonacci\fibo\obj\Debug\net7.0\Fibo.AssemblyInfoInputs.cache
+C:\Users\APT01-042\Desktop\PushUp\Fibonacci\fibo\obj\Debug\net7.0\Fibo.AssemblyInfo.cs
+C:\Users\APT01-042\Desktop\PushUp\Fibonacci\fibo\obj\Debug\net7.0\Fibo.csproj.CoreCompileInputs.cache
+C:\Users\APT01-042\Desktop\PushUp\Fibonacci\fibo\obj\Debug\net7.0\Fibo.dll
+C:\Users\APT01-042\Desktop\PushUp\Fibonacci\fibo\obj\Debug\net7.0\refint\Fibo.dll
+C:\Users\APT01-042\Desktop\PushUp\Fibonacci\fibo\obj\Debug\net7.0\Fibo.pdb
+C:\Users\APT01-042\Desktop\PushUp\Fibonacci\fibo\obj\Debug\net7.0\Fibo.genruntimeconfig.cache
+C:\Users\APT01-042\Desktop\PushUp\Fibonacci\fibo\obj\Debug\net7.0\ref\Fibo.dll

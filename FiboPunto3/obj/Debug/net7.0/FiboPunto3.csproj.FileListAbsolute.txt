@@ -1,0 +1,14 @@
+C:\Users\APT01-042\Desktop\PushUp\Fibonacci\FiboPunto3\bin\Debug\net7.0\FiboPunto3.exe
+C:\Users\APT01-042\Desktop\PushUp\Fibonacci\FiboPunto3\bin\Debug\net7.0\FiboPunto3.deps.json
+C:\Users\APT01-042\Desktop\PushUp\Fibonacci\FiboPunto3\bin\Debug\net7.0\FiboPunto3.runtimeconfig.json
+C:\Users\APT01-042\Desktop\PushUp\Fibonacci\FiboPunto3\bin\Debug\net7.0\FiboPunto3.dll
+C:\Users\APT01-042\Desktop\PushUp\Fibonacci\FiboPunto3\bin\Debug\net7.0\FiboPunto3.pdb
+C:\Users\APT01-042\Desktop\PushUp\Fibonacci\FiboPunto3\obj\Debug\net7.0\FiboPunto3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\APT01-042\Desktop\PushUp\Fibonacci\FiboPunto3\obj\Debug\net7.0\FiboPunto3.AssemblyInfoInputs.cache
+C:\Users\APT01-042\Desktop\PushUp\Fibonacci\FiboPunto3\obj\Debug\net7.0\FiboPunto3.AssemblyInfo.cs
+C:\Users\APT01-042\Desktop\PushUp\Fibonacci\FiboPunto3\obj\Debug\net7.0\FiboPunto3.csproj.CoreCompileInputs.cache
+C:\Users\APT01-042\Desktop\PushUp\Fibonacci\FiboPunto3\obj\Debug\net7.0\FiboPunto3.dll
+C:\Users\APT01-042\Desktop\PushUp\Fibonacci\FiboPunto3\obj\Debug\net7.0\refint\FiboPunto3.dll
+C:\Users\APT01-042\Desktop\PushUp\Fibonacci\FiboPunto3\obj\Debug\net7.0\FiboPunto3.pdb
+C:\Users\APT01-042\Desktop\PushUp\Fibonacci\FiboPunto3\obj\Debug\net7.0\FiboPunto3.genruntimeconfig.cache
+C:\Users\APT01-042\Desktop\PushUp\Fibonacci\FiboPunto3\obj\Debug\net7.0\ref\FiboPunto3.dll
